@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "longways",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "6c83d8a3-dc7f-456a-826e-cba3dba561d9",
+			"database_name": "d1-longways-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
